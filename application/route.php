@@ -1,7 +1,7 @@
 <?php
 use think\Route;
 Route::get('/',function(){
-    return 'Hello,world!';
+    return 'tp5demp 88端口 github tsp1109 tsping1109';
 });
 Route::get('news/:id','index/News/read');//查询
 Route::post('news','index/News/add'); //新增

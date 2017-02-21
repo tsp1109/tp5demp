@@ -7,11 +7,11 @@ return [
     // 数据库名
     'database'       => 'tprestful',
     // 用户名
-    'username'       => 'root',
+    'username'       => 'rms',
     // 密码
-    'password'       => '123456',
+    'password'       => 'bitrms9527',
     // 端口
-    'hostport'       => '',
+    'hostport'       => '88',
     // 连接dsn
     'dsn'            => '',
     // 数据库连接参数
